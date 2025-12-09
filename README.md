@@ -1,5 +1,6 @@
 # scutua-crypto.github.io
-![Azure WebApps CI/CD](https://github.com/scutua-crypto/scutua-crypto.github.io/actions/workflows/azure-webapps-node.yml/badge.svg)
+[![Azure WebApps CI/CD](https://github.com/scutuatua-crypto/scutua-crypto.github.io/actions/workflows/azure-webapps-node.yml/badge.svg)](https://github.com/scutuatua-crypto/scutua-crypto.github.io/actions/workflows/azure-webapps-node.yml)
+
 
 # 🐋 WhaleTrucker Reef — GitHub Pages Site
 
